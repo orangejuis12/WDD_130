@@ -95,26 +95,34 @@
 .content4 {
   /* This is the parent of the activity 4 boxes. */
   height: 400px;
+  display: grid;
+  grid-template-columns: 30.5%;
 }
 .red4 {
-  width: 100px; 
-  height: 100px; 
+  width: 200px; 
+  height: 400px; 
   background-color: red; 
 } 
 .green4 {
-  width: 100px; 
+  width: 200px; 
   height: 100px; 
   background-color: green; 
+  margin-left: 200px;
+  margin-top: -400px;
 } 
 .yellow4 {
-  width: 100px; 
+  width: 200px; 
   height: 100px; 
   background-color: gold; 
+  margin-left: 200px;
+  margin-top: -300px;
 } 
 .blue4 {
-  width: 100px; 
+  width: 200px; 
   height: 100px; 
   background-color: blue; 
+  margin-left: 200px;
+  margin-top: -200px;
 } 
 /* Activity 5 styles */ 
 .content5 {
