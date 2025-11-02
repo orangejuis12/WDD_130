@@ -1,3 +1,5 @@
+/*Hi*/ 
+
 @import url('https://fonts.googleapis.com/css2?family=IM+Fell+French+Canon&family=Lato:ital,wght@0,400;0,700;1,400&display=swap');
 
 :root {
@@ -184,7 +186,7 @@ footer .social img{
     grid-column: 2/4;
     grid-row: 2/3;
 }
-.camping-card{
+.camping-card{ 
     margin: 200px 0;
     grid-column: 5/7;
     grid-row: 2/3;
